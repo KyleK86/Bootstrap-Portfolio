@@ -44,6 +44,7 @@ h1 {
 }
 
 .footer {
+    font-size: 12px;
     flex-shrink: 0;
     padding: 12px;
     text-align: center;
@@ -77,9 +78,6 @@ body {
     margin: auto;
 }
 
-
-
-
 img {
     height: 200px;
     width: 200px;
@@ -95,4 +93,8 @@ img {
     padding: 16px;
     font-size: 16px;
     line-height: 24px;
+}
+
+footer2 {
+    width:100%;
 }
