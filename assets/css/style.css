@@ -67,6 +67,7 @@ h1 {
 .container {
     border-width: 100%;
     border-top: #4aaaa5;
+    
 
 }
 
@@ -80,6 +81,7 @@ body {
     flex: 1 0 auto;
     width: 70%;
     margin: auto;
+   
 
 }
 
@@ -113,7 +115,12 @@ img {
 
 #mainStuff {
     padding-top: 10px;
+    
 
+}
+
+.gallery {
+    
 }
 
 
@@ -126,6 +133,7 @@ img {
 
     .content {
         width: 80%;
+        
     }
 
     #footer {
@@ -157,6 +165,7 @@ img {
         margin: left;
 
     }
+  
 
 
 }
