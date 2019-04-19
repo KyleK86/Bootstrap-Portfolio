@@ -108,6 +108,7 @@ img {
     padding-top: 10px;
     padding-left: 5px;
     padding-bottom: 10px;
+    justify-content: center;
 
     width: 70%;
     margin: auto;
